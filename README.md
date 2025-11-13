@@ -34,8 +34,6 @@
 
 ---
 
-### 🌐 Meu site
-
 <p align="center">
   <a href="https://www.gabrielnavas.com.br" target="_blank">
     <img src="https://img.shields.io/badge/-www.gabrielnavas.com.br-000000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"/>
