@@ -1,19 +1,18 @@
-<h1 align="center">👋 Olá! Eu sou o Gabriel Navas</h1>
+<h1 align="center">👋 Olá, sou Gabriel Navas</h1>
 
 <p align="center">
-  💻 Software Engineer | 🌎 Brasil  
-  <br/>
-  Escrevendo código limpo, construindo sistemas sólidos, sempre aprendendo algo novo 🚀
+  💻 Engenheiro de Software | 🌎 Brasil <br/>
+  Apaixonado por código limpo, sistemas robustos e aprendizado contínuo 🚀
 </p>
 
 ---
 
 ### 🚀 Sobre mim
 
-- 🔭 Atualmente explorando projetos em **Go (Golang/Gin), TypeScript (Next.js, NestJS), Python (FastAPI), Flutter e React Native**  
-- ⚙️ Interesse em **automação, desenvolvimento web, mobile, GIS (PostGIS), cloud (AWS) e arquitetura de sistemas**  
-- 🌱 Sempre aprimorando conhecimentos em **DevOps, bancos de dados (PostgreSQL/PostGIS), Linux e boas práticas de código**  
-- 💬 Curioso sobre **backend, produtividade, inovação e comunidades open source**
+- 🔭 Em projetos com **Go (Golang/Gin), TypeScript (Next.js, NestJS), Python (FastAPI), Flutter, React Native**
+- ⚙️ Interesse em **automação, desenvolvimento fullstack, mobile, GIS (PostGIS), cloud (AWS) e arquitetura**
+- 🌱 Sempre evoluindo em **DevOps, bancos de dados (PostgreSQL/PostGIS), Linux e boas práticas**
+- 💬 Gosto de conversar sobre **backend, produtividade, inovação, open source e comunidade**
 
 ---
 
@@ -25,7 +24,7 @@
 
 ---
 
-### 📊 Estatísticas do GitHub
+### 📊 GitHub & Insights
 
 <p align="center">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=gabznavas&show_icons=true&theme=tokyonight" alt="GitHub stats" />
@@ -42,4 +41,4 @@
 
 ---
 
-⭐️ Feito com dedicação e café ☕
+<p align="center">⭐️ Feito com dedicação, tecnologia e muitos cafés ☕</p>
