@@ -3,24 +3,24 @@
 <p align="center">
   💻 Desenvolvedor de Software | ⚙️ Entusiasta de Linux e Open Source | 🌎 Brasil  
   <br/>
-  Escrevendo código limpo, construindo sistemas sólidos e sempre aprendendo algo novo 🚀
+  Escrevendo código limpo, construindo sistemas sólidos, sempre aprendendo algo novo 🚀
 </p>
 
 ---
 
 ### 🚀 Sobre mim
 
-- 🔭 Atualmente explorando projetos em **Go, TypeScript e Python**  
-- ⚙️ Interesse em **automação, desenvolvimento web e arquitetura de sistemas**  
-- 🌱 Sempre aprimorando conhecimentos em **DevOps e boas práticas de código**  
-- 💬 Curioso sobre **Linux, backend, bancos de dados e produtividade**
+- 🔭 Atualmente explorando projetos em **Go (Golang/Gin), TypeScript (Next.js, NestJS), Python (FastAPI), Flutter e React Native**  
+- ⚙️ Interesse em **automação, desenvolvimento web, mobile, GIS (PostGIS), cloud (AWS) e arquitetura de sistemas**  
+- 🌱 Sempre aprimorando conhecimentos em **DevOps, bancos de dados (PostgreSQL/PostGIS), Linux e boas práticas de código**  
+- 💬 Curioso sobre **backend, produtividade, inovação e comunidades open source**
 
 ---
 
 ### 🛠️ Tecnologias & Ferramentas
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=go,ts,python,react,nodejs,postgresql,linux,docker,git" alt="tech stack" />
+  <img src="https://skillicons.dev/icons?i=go,py,ts,flutter,react,reactnative,nodejs,nextjs,nestjs,postgresql,postgis,fastapi,gin,linux,docker,git,aws" alt="tech stack" />
 </p>
 
 ---
