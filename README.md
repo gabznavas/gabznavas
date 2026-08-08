@@ -1,7 +1,7 @@
 <h1 align="center">👋 Olá! Eu sou o Gabriel Navas</h1>
 
 <p align="center">
-  💻 Desenvolvedor de Software | ⚙️ Entusiasta de Linux e Open Source | 🌎 Brasil  
+  💻 Software Engineer | 🌎 Brasil  
   <br/>
   Escrevendo código limpo, construindo sistemas sólidos, sempre aprendendo algo novo 🚀
 </p>
